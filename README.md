@@ -1,4 +1,4 @@
-## Roboamigos es una app created with react framework  
-## The app is an interactive aplication  made with cards and changes  Roboamigos
-## App created for practice with React framework
+## RoboAmigos es una app created with react framework  
+## The app is an interactive application that has a CardList and a Search to get a RoboAmigos  Card Result
+## App created To practice with React framework
 ## Author Juan Tejeda
