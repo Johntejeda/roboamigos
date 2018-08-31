@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Cardlist from './Cardlist.js';
-import SearchBox from './SearchBox.js;
-import Scroll from './Scroll.js;
+import SearchBox from './SearchBox.js';
+import Scroll from './Scroll.js';
 import './App.css';
 
 class App extends Component {
